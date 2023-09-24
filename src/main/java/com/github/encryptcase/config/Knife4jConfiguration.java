@@ -21,7 +21,7 @@ public class Knife4jConfiguration {
                         // 描述字段支持 Markdown 语法
                         .description("# 加密解密示例工程")
                         .termsOfServiceUrl("https://www.baidu.com")
-                        .contact("许大仙")
+                        .contact("lxhcaicai")
                         .version("1.0")
                         .build())
 //                // 分组名称
